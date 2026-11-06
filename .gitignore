@@ -1,0 +1,14 @@
+# Virtual environments
+aws-env/
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets (important for AWS work)
+.env
+*.pem
+.aws/
