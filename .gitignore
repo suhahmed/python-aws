@@ -1,5 +1,5 @@
 # Virtual environments
-aws-env/
+.aws-env/
 venv/
 .venv/
 env/
